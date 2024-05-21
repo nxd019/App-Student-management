@@ -131,6 +131,12 @@
                 android:text="Tìm kiếm"/>
         </LinearLayout>
 
+        <ListView
+            android:id="@+id/classListView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"/>
+
 
 
 
